@@ -4,7 +4,7 @@ import React, { useState } from 'react';
 import Slider from 'react-slick';
 import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
-import { portfolios, tools } from '../data/Data';
+import { portfolios } from '../data/Data';
 
 const Prtfolio = () => {
   const [visible, setVisible] = useState(false);
@@ -16,25 +16,19 @@ const Prtfolio = () => {
   const handleMouseOut = () => {
     setVisible(false);
   };
+
   const settings = {
     dots: true,
-    
     infinite: true,
     speed: 500,
-    slidesToShow: 3, // Adjusted to at least 5 items initially
-    slidesToScroll: 1,
+    slidesToShow:4,
+    slidesToScroll:2,
     autoplay: true, // Enable autoplay
     autoplaySpeed: 4000, // Set the autoplay speed in milliseconds (adjust as needed)
     ease: 'cubic-bezier(0.68, -0.55, 0.27, 1.55)',
     cssEase: 'cubic-bezier(0.68, -0.55, 0.27, 1.55)',
     responsive: [
-      {
-        breakpoint: 1400,
-        settings: {
-          slidesToShow: 5,
-          slidesToScroll: 3,
-        },
-      },
+     
       {
         breakpoint: 1200,
         settings: {
