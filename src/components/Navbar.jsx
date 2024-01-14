@@ -44,7 +44,7 @@ const Navbar = () => {
 
   const mainLogo = isSmall ? smalllogo : logo;
   const logoAlt = isSmall ? 'Small Logo' : 'Logo';
-  const logoSize = isSmall ? 'w-20 h-20' : 'w-40'; // Adjust the sizes as needed
+  const logoSize = isSmall ? 'w-16 h-16' : 'w-32'; // Adjust the sizes as needed
 
   return (
     <header className={`w-full flex fixed  z-20 justify-center transition-colors py-2 ${color || (isMobileMenuOpen && isSmall) || location.pathname != "/" ? 'bg-dark bg-opacity-90' : 'bg-transparent'}`}>
