@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+html{
+  scroll-behavior: smooth !important;
+  scroll-padding-top: 30px;
+}
+body{
+    background-color: #f2f2f2;
+}
+p{
+    color: #656565;
+}
+::-webkit-scrollbar {
+    width: 3px; /* Set the width of the scrollbar */
+  }
+  
+  ::-webkit-scrollbar-track {
+    background-color: #f1f1f174; /* Set the color of the scrollbar track */
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background-color: #61bce9; /* Set the color of the scrollbar thumb */
+    border-radius: 5px; /* Set the radius of the scrollbar thumb */
+  }
+  
+
+  
