@@ -98,7 +98,7 @@ const Prtfolio = () => {
                 <>
                   <div className="absolute top-0 left-0 text-light bg-dark opacity-30 w-full h-full transition-opacity"></div>
                   <div className="absolute w-full h-full top-0 flex flex-col items-center justify-center text-light transition">
-                    <h1 className="text-xl uppercase font-bold">{tool.title}{index}</h1>
+                    <h1 className="text-xl uppercase font-bold">{tool.title}</h1>
                     <h2>{tool.category}</h2>
                   </div>
                 </>
