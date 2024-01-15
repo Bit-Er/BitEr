@@ -211,13 +211,13 @@ export const portfolios = [
     gitlink: "https://github.com/BitBrain19/Foody.git",
     viewlink: "https://foody-bit-er.netlify.app/",
   },
-  {
-    img: "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYSIItM7Ycd2OLl4Xrw0ava9I-CiuVnQGwPFPqvXtlWEL2ZeQRR28vGQQO3MfDEimFsboXr2DOLhs6dwMBFva4gPSrLaug=w1366-h599",
-    title: "Foody",
-    category: "web",
-    gitlink: "https://github.com/BitBrain19/Foody.git",
-    viewlink: "https://foody-bit-er.netlify.app/",
-  }
+  // {
+  //   img: "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYSIItM7Ycd2OLl4Xrw0ava9I-CiuVnQGwPFPqvXtlWEL2ZeQRR28vGQQO3MfDEimFsboXr2DOLhs6dwMBFva4gPSrLaug=w1366-h599",
+  //   title: "Foody",
+  //   category: "web",
+  //   gitlink: "https://github.com/BitBrain19/Foody.git",
+  //   viewlink: "https://foody-bit-er.netlify.app/",
+  // }
 ];
 // Our team
 export var teams = [
