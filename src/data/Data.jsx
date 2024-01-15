@@ -212,7 +212,7 @@ export const portfolios = [
     viewlink: "https://foody-bit-er.netlify.app/",
   },
   {
-    img: "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYSIItM7Ycd2OLl4Xrw0ava9I-CiuVnQGwPFPqvXtlWEL2ZeQRR28vGQQO3MfDEimFsboXr2DOLhs6dwMBFva4gPSrLaug=w1366-h599",
+    img: "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQck9QmOhG7yG7vfCDqlrSpQ3qGdlKR4e4mpCEO8qSwk4DhmQPu7AyGc2Xe9AzLpT4HKY6hz-hzz5e1Zt9hieoQuIvA=w1366-h599",
     title: "Foody",
     category: "web",
     gitlink: "https://github.com/BitBrain19/Foody.git",
