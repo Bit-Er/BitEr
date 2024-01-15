@@ -373,7 +373,7 @@ export const social = [
     name: "instagram",
     link: "https://www.instagram.com/_bit.er/",
     image:
-      "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQYmPpLkBgpUk7PXGnIIGdKX5eCcNr9ZGHwYT-PDJXGldLIdH_5LVBzt2lDVJ0oo0fHD_5X_uVRwGYlyBcG35Ve3BsHAg=w1366-h599",
+      "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYSKWavWiaUKVD0fJ6dpGCsk0uycKtny9OEISTgz5DSiuBCMw0UFgDxhOVXKh_rHsAl-r7s6uVBHc360s6o_mA9sKTfwiw=w1366-h599",
   },
   {
     name: "github",
